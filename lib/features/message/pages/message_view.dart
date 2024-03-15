@@ -85,7 +85,7 @@ class MessageView extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               CircleAvatar(
-                backgroundImage: AssetImage('assets/images/d-min.jpg'),
+                backgroundImage: AssetImage('assets/images/c-min.jpg'),
                 radius: 20,
               ),
               SizedBox(width: 8),
