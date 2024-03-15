@@ -13,7 +13,7 @@ class ProfileView extends StatelessWidget {
         child: Scaffold(
           appBar: AppBar(
             leading: const CircleAvatar(
-              backgroundImage: AssetImage('assets/images/b.jpg'),
+              backgroundImage: AssetImage('assets/images/g-min.jpg'),
               radius: 20,
             ),
           ),
